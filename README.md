@@ -22,3 +22,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadamin&show_icons=true&locale=en" alt="saadamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadamin&" alt="saadamin" /></p>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5HBL81GYRS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5HBL81GYRS');
+</script>
